@@ -48,7 +48,7 @@ The deliverables produced from this project include:
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email :
 vernanda.aulia27@gmail.com 
 
-# Machine learning
-# Data Science
-# Supervised
-# Prediction
+#Machine learning
+#Data Science
+#Supervised
+#Prediction
